@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo_livros>
+    <livro id="livro_101">
+        <titulo>A Arte da Guerra</titulo>
+        <autor>Sun Tzu</autor>
+        <ano_publicacao>500 a.C.</ano_publicacao>
+        <genero>Filosofia, Estratégia</genero>
+        <editora>Editora XYZ</editora>
+        <paginas>120</paginas>
+        <disponivel>true</disponivel>
+        <preco moeda="BRL">29.90</preco>
+    </livro>
+
+    <livro id="livro_102">
+        <titulo>O Guia do Mochileiro das Galáxias</titulo>
+        <autor>Douglas Adams</autor>
+        <ano_publicacao>1979</ano_publicacao>
+        <genero>Ficção Científica, Comédia</genero>
+        <editora>HarperCollins</editora>
+        <paginas>224</paginas>
+        <disponivel>true</disponivel>
+        <preco moeda="BRL">35.50</preco>
+        <avaliacao>
+            <estrelas>4.5</estrelas>
+            <comentarios>Leitura divertida e inteligente!</comentarios>
+        </avaliacao>
+    </livro>
+
+    <livro id="livro_103">
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <ano_publicacao>1949</ano_publicacao>
+        <genero>Distopia, Ficção Política</genero>
+        <editora>Secker &amp; Warburg</editora>
+        <paginas>328</paginas>
+        <disponivel>false</disponivel>
+        <preco moeda="BRL">42.00</preco>
+    </livro>
+
+    <configuracoes>
+        <formato_padrao>A4</formato_padrao>
+        <versao>1.0</versao>
+        <ultima_atualizacao>2025-06-11</ultima_atualizacao>
+    </configuracoes>
+
+</catalogo_livros>
